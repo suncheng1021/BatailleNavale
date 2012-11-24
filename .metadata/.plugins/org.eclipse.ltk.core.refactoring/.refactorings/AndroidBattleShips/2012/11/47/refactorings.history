@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change Layout" description="Change Layout" file="/AndroidBattleShips/res/layout/activity_battle_grid.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/AndroidBattleShips" sel-end="917" sel-start="783" stamp="1353727676684" type="android.widget.RelativeLayout"/>
+</session>
