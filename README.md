@@ -1,4 +1,4 @@
-Projet-2A-IR
+BatailleNavale
 ============
 
-Projet de deuxième année informatique ENSISA
+Projet de deuxième année informatique ENSISA - Abandoné
