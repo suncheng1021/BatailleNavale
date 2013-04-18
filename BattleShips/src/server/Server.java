@@ -19,16 +19,15 @@ public class Server implements Runnable {
 	@Override
 	public void run() {
 		try {
-
 			this.player1 = new Client(this, this.server.accept());
 			System.out.println("Player 1 has joined");
 			this.player2 = new Client(this, this.server.accept());
 			System.out.println("Player 2 has joined");
 			
-			// Choix alatoire du joeur ˆ dbuter la partie
+			// Choix alï¿½atoire du joeur ï¿½ dï¿½buter la partie
 			int rand = (int) (Math.random() * 2);
 			
-			// Prparation du message
+			// Prï¿½paration du message
 			String message = "play";
 			
 			// Envoie du message
